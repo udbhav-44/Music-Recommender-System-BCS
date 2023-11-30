@@ -17,3 +17,22 @@ The Project is set to have a tentative length of 5 weeks.
 3. Week 3 - Implementation of various recommendation algorithms
 4. Week 4 - Building of final recommender model.
 5. Week 5 - Model training and testing and further fine-tuning if needed.
+
+## Repo Setup 
+
+- Open your terminal (in case of Mac) or Cmd (Windows)
+- Enter the following commands 
+
+```
+git clone https://github.com/udbhav-44/Music-Recommender-System-BCS.git
+```
+
+-  This will Clone the repository onto your local machine
+- To Update/Sync the repo with the changes, run the following command:
+
+```
+cd /path/to/the/cloned/repo
+git pull 
+```
+
+
